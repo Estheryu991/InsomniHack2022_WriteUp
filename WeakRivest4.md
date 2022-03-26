@@ -1,0 +1,6 @@
+/*by Kava*/
+Find a way to decrypt ct2
+
+pt1 = I_do_not_like_ponies
+ct1 = D058DECB037A10916E9D8B0E5345BB381AE8D8EE
+ct2 = D049E9DF182420AB5EC6BD101229940517B59CE0
