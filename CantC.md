@@ -11,7 +11,7 @@ Password:
 
 password.mp3 password.raw
 
-Notes:
+Notes: https://keytap2.ggerganov.com/
 
 * US qwertz keyboard.
 
