@@ -1,0 +1,9 @@
+/**Gothard
+by Greming
+#forencis #network 
+
+During a red team audit, SCRT exfiltrated a file outside our internal network. Fortunately, our blue team was able to recovered a network capture when this happened.
+
+Could you get the file back and get the flag?
+
+gothard.pcap*/
